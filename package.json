@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/core": "^6.1.2",
+    "octokit": "^4.0.2"
+  }
 }
